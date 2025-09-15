@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd_number {
 	background-color: pink;
-	font-family: "Verdana, DejaVu Sans, sans-serif";
+	font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #even_number_1 {
