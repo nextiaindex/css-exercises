@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.button_black {
+	background-color: black;
+	color: white;
+}
