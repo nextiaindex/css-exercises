@@ -9,16 +9,10 @@ body {
   margin: 16px auto;
 }
 
-.title {
-  background: #e3f4ff;
-}
-
-.content {
-  background: #e3f4ff;
-}
-
+.title,
+.content,
 .button-container {
-  background: #e3f4ff;
+	background-color: #e3f4ff;
 }
 
 button {
